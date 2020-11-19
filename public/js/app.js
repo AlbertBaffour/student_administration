@@ -37274,6 +37274,8 @@ module.exports = function(module) {
 
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
+$('nav i.fas').addClass('fa-fw mr-1');
+
 /***/ }),
 
 /***/ "./resources/js/bootstrap.js":

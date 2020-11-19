@@ -1,5 +1,4 @@
 @extends('layouts.template')
-@section('title', 'Welcome to the student administration')
 
 @section('main')
     <h1>Student administration application</h1>
